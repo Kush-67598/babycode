@@ -1,7 +1,5 @@
 # IELTS Institute - React Landing Page
 
-Working site Link: babycode-nzjk.vercel.app
-
 A modern, professional, and responsive landing page for a fictional IELTS Institute built using **React.js**, **Tailwind CSS**, and **Framer Motion**.  
 
 This project demonstrates component-based design, responsive layouts, and subtle animations to create an attractive UI suitable for a real-world landing page.
