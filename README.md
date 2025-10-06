@@ -1,16 +1,47 @@
-# React + Vite
+# IELTS Institute - React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, professional, and responsive landing page for a fictional IELTS Institute built using **React.js**, **Tailwind CSS**, and **Framer Motion**.  
 
-Currently, two official plugins are available:
+This project demonstrates component-based design, responsive layouts, and subtle animations to create an attractive UI suitable for a real-world landing page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Responsive Navbar**  
+  - Fixed top navigation with desktop and mobile support (hamburger menu).  
+  - Smooth mobile menu toggle.
 
-## Expanding the ESLint configuration
+- **Hero Section**  
+  - Modern gradient background with rounded corners.  
+  - Animated headline, subtext, and call-to-action button using Framer Motion.  
+  - Highlighted keywords for better visual appeal.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Feature Cards (Optional)**  
+  - Showcase core features like Speaking Practice, Mock Tests, AI Band Score, and Personalized Feedback.  
+  - Responsive grid layout.
+
+- **Student Testimonials (Optional)**  
+  - Carousel or grid layout for reviews.  
+  - Mobile-friendly design.
+
+- **Footer**  
+  - Compact, professional footer with quick links, contact info, and social icons.  
+  - Responsive and visually structured.
+
+- **Animations**  
+  - Smooth fade/slide effects using Framer Motion for Hero and optional elements.  
+  - Button hover and tap animations for interactivity.
+
+---
+
+## Tech Stack
+
+- **React.js** – Component-based UI.  
+- **Tailwind CSS** – Rapid, utility-first styling.  
+- **Framer Motion** – Smooth animations and transitions.  
+- **React Icons** – Vector icons for social links and menu icons.
+
+---
+
+## Folder Structure
