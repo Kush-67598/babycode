@@ -65,28 +65,13 @@ npm install
 npm start
 
 
-4. Open the app: Navigate to http://localhost:3000 in your browser.
+4. Open the app: Navigate to http://localhost:5173 in your browser.
 
 
 
 
 ---
 
-Design Choices
-
-Component-based structure: Each section (Navbar, Hero, Features, Testimonials, Footer) is separated for clean, reusable code.
-
-Responsive layout: Tailwind’s responsive classes ensure the page looks great on all devices.
-
-Modern aesthetics: Gradients, rounded corners, highlighted text, and floating elements add depth and visual interest.
-
-Animations: Framer Motion provides smooth entrance animations and interactive button effects.
-
-Clean code: Clear indentation, descriptive class names, and minimal CSS overrides for readability.
-
-
-
----
 
 Notes
 
