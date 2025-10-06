@@ -45,3 +45,61 @@ This project demonstrates component-based design, responsive layouts, and subtle
 ---
 
 ## Folder Structure
+
+ielts-institute/ ├── public/ │   └── assets/               # Images or icons ├── src/ │   ├── components/ │   │   ├── Navbar.jsx │   │   ├── Hero.jsx │   │   ├── FeatureCards.jsx │   │   ├── Testimonials.jsx │   │   └── Footer.jsx │   ├── App.jsx │   └── index.js ├── tailwind.config.js ├── package.json └── README.md
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/ielts-institute.git
+   cd ielts-institute
+
+2. Install dependencies:
+
+npm install
+
+
+3. Run the development server:
+
+npm start
+
+
+4. Open the app: Navigate to http://localhost:3000 in your browser.
+
+
+
+
+---
+
+Design Choices
+
+Component-based structure: Each section (Navbar, Hero, Features, Testimonials, Footer) is separated for clean, reusable code.
+
+Responsive layout: Tailwind’s responsive classes ensure the page looks great on all devices.
+
+Modern aesthetics: Gradients, rounded corners, highlighted text, and floating elements add depth and visual interest.
+
+Animations: Framer Motion provides smooth entrance animations and interactive button effects.
+
+Clean code: Clear indentation, descriptive class names, and minimal CSS overrides for readability.
+
+
+
+---
+
+Notes
+
+No backend logic is implemented; the page uses static data for features and testimonials.
+
+Focus was placed on UI quality, responsiveness, and design clarity to match modern landing page standards.
+
+
+
+---
+
+License
+
+This project is for educational purposes and internship submission only.
+
+---
